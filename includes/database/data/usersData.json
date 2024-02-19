@@ -1,0 +1,2082 @@
+{
+    "100095041099806": {
+        "userID": "100095041099806",
+        "name": "✰ Deadlıne Anderlıas 🪶",
+        "vanity": "anderlias",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 4,
+        "createTime": {
+            "timestamp": 1708136788985
+        },
+        "data": {
+            "timestamp": 1708136788985
+        },
+        "lastUpdate": 1708136788985
+    },
+    "61556541388503": {
+        "userID": "61556541388503",
+        "name": "Ander Bot",
+        "vanity": "61556541388503",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1708136789161
+        },
+        "data": {
+            "timestamp": 1708136789161
+        },
+        "lastUpdate": 1708136789161
+    },
+    "100085118586720": {
+        "userID": "100085118586720",
+        "name": "Jørdï Såmå Crowley-Murphy",
+        "vanity": "100085118586720",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1708136789396
+        },
+        "data": {
+            "timestamp": 1708136789396
+        },
+        "lastUpdate": 1708136789396
+    },
+    "100092745063495": {
+        "userID": "100092745063495",
+        "name": "Flaviō Apōcalypse",
+        "vanity": "100092745063495",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1708136789593
+        },
+        "data": {
+            "timestamp": 1708136789593
+        },
+        "lastUpdate": 1708136789593
+    },
+    "61550020283878": {
+        "userID": "61550020283878",
+        "name": "Joyce Lajoie",
+        "vanity": "61550020283878",
+        "gender": 1,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1708136817216
+        },
+        "data": {
+            "timestamp": 1708136817216
+        },
+        "lastUpdate": 1708136817216
+    },
+    "61550341906406": {
+        "userID": "61550341906406",
+        "name": "Dånīęl Sømbrē Dårsønę",
+        "vanity": "61550341906406",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1708136817409
+        },
+        "data": {
+            "timestamp": 1708136817409
+        },
+        "lastUpdate": 1708136817409
+    },
+    "61550675066195": {
+        "userID": "61550675066195",
+        "name": "Lucie Arsène Ranoronirina",
+        "vanity": "61550675066195",
+        "gender": 1,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1708136817606
+        },
+        "data": {
+            "timestamp": 1708136817606
+        },
+        "lastUpdate": 1708136817606
+    },
+    "61550905347422": {
+        "userID": "61550905347422",
+        "name": "Nahar Sanghula",
+        "vanity": "61550905347422",
+        "gender": 1,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1708136817798
+        },
+        "data": {
+            "timestamp": 1708136817798
+        },
+        "lastUpdate": 1708136817798
+    },
+    "61550931428747": {
+        "userID": "61550931428747",
+        "name": "Gold Roger",
+        "vanity": "61550931428747",
+        "gender": 1,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1708136818025
+        },
+        "data": {
+            "timestamp": 1708136818025
+        },
+        "lastUpdate": 1708136818025
+    },
+    "61551367730561": {
+        "userID": "61551367730561",
+        "name": "Shikito Pîrata",
+        "vanity": "61551367730561",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1708136818265
+        },
+        "data": {
+            "timestamp": 1708136818265
+        },
+        "lastUpdate": 1708136818265
+    },
+    "61551417118451": {
+        "userID": "61551417118451",
+        "name": "Métöushela Walkēr",
+        "vanity": "61551417118451",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1708136818455
+        },
+        "data": {
+            "timestamp": 1708136818455
+        },
+        "lastUpdate": 1708136818455
+    },
+    "61551436914151": {
+        "userID": "61551436914151",
+        "name": "Badias Talla",
+        "vanity": "61551436914151",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1708136818686
+        },
+        "data": {
+            "timestamp": 1708136818686
+        },
+        "lastUpdate": 1708136818686
+    },
+    "61551625276468": {
+        "userID": "61551625276468",
+        "name": "Cintia Aïgnon",
+        "vanity": "61551625276468",
+        "gender": 1,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1708136818885
+        },
+        "data": {
+            "timestamp": 1708136818885
+        },
+        "lastUpdate": 1708136818885
+    },
+    "61551757747742": {
+        "userID": "61551757747742",
+        "name": "Voldigo Anos",
+        "vanity": "61551757747742",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1708136819107
+        },
+        "data": {
+            "timestamp": 1708136819107
+        },
+        "lastUpdate": 1708136819107
+    },
+    "61551812833211": {
+        "userID": "61551812833211",
+        "name": "Hana Yamamoto",
+        "vanity": "61551812833211",
+        "gender": 1,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1708136819404
+        },
+        "data": {
+            "timestamp": 1708136819404
+        },
+        "lastUpdate": 1708136819404
+    },
+    "61552097604602": {
+        "userID": "61552097604602",
+        "name": "Aurèl Le Leader",
+        "vanity": "61552097604602",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1708136819604
+        },
+        "data": {
+            "timestamp": 1708136819604
+        },
+        "lastUpdate": 1708136819604
+    },
+    "61552161820511": {
+        "userID": "61552161820511",
+        "name": "Madara Uchiwa",
+        "vanity": "61552161820511",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1708136819798
+        },
+        "data": {
+            "timestamp": 1708136819798
+        },
+        "lastUpdate": 1708136819798
+    },
+    "61552163438924": {
+        "userID": "61552163438924",
+        "name": "Fabrice Oeudraogo",
+        "vanity": "61552163438924",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1708136819986
+        },
+        "data": {
+            "timestamp": 1708136819986
+        },
+        "lastUpdate": 1708136819986
+    },
+    "61552528605499": {
+        "userID": "61552528605499",
+        "name": "🌊Mitama Sama 🌊",
+        "vanity": "mitama.sama",
+        "gender": 1,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1708136820178
+        },
+        "data": {
+            "timestamp": 1708136820178
+        },
+        "lastUpdate": 1708136820178
+    },
+    "61552538030584": {
+        "userID": "61552538030584",
+        "name": "Yuichi Satoru",
+        "vanity": "61552538030584",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1708136820417
+        },
+        "data": {
+            "timestamp": 1708136820417
+        },
+        "lastUpdate": 1708136820417
+    },
+    "61552794792093": {
+        "userID": "61552794792093",
+        "name": "ʚʆɞ Flash Bot ʚʆɞ",
+        "vanity": "61552794792093",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1708136820621
+        },
+        "data": {
+            "timestamp": 1708136820621
+        },
+        "lastUpdate": 1708136820621
+    },
+    "61553096331143": {
+        "userID": "61553096331143",
+        "name": "Ëmõ Esso",
+        "vanity": "61553096331143",
+        "gender": 1,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1708136820814
+        },
+        "data": {
+            "timestamp": 1708136820814
+        },
+        "lastUpdate": 1708136820814
+    },
+    "61553191521523": {
+        "userID": "61553191521523",
+        "name": "Fä Nï",
+        "vanity": "61553191521523",
+        "gender": 1,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1708136821039
+        },
+        "data": {
+            "timestamp": 1708136821039
+        },
+        "lastUpdate": 1708136821039
+    },
+    "61553209349528": {
+        "userID": "61553209349528",
+        "name": "손아래의",
+        "vanity": "61553209349528",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1708136821263
+        },
+        "data": {
+            "timestamp": 1708136821263
+        },
+        "lastUpdate": 1708136821263
+    },
+    "61553392844761": {
+        "userID": "61553392844761",
+        "name": "ᎷᎥᏦᏋᎩ ᎷᎯᏁᏠᎨᏒᎾ ᎦᎯᏁᎾ",
+        "vanity": "61553392844761",
+        "gender": 1,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1708136821465
+        },
+        "data": {
+            "timestamp": 1708136821465
+        },
+        "lastUpdate": 1708136821465
+    },
+    "61553491046815": {
+        "userID": "61553491046815",
+        "name": "James Broin",
+        "vanity": "61553491046815",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1708136821657
+        },
+        "data": {
+            "timestamp": 1708136821657
+        },
+        "lastUpdate": 1708136821657
+    },
+    "61553624082196": {
+        "userID": "61553624082196",
+        "name": "Kamarou Tigri",
+        "vanity": "61553624082196",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1708136821849
+        },
+        "data": {
+            "timestamp": 1708136821849
+        },
+        "lastUpdate": 1708136821849
+    },
+    "61553649742026": {
+        "userID": "61553649742026",
+        "name": "Smith Ktp Øfficiel",
+        "vanity": "61553649742026",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1708136822044
+        },
+        "data": {
+            "timestamp": 1708136822044
+        },
+        "lastUpdate": 1708136822044
+    },
+    "61553685157471": {
+        "userID": "61553685157471",
+        "name": "Ouedrego Fabrice",
+        "vanity": "61553685157471",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1708136822230
+        },
+        "data": {
+            "timestamp": 1708136822230
+        },
+        "lastUpdate": 1708136822230
+    },
+    "61553895001939": {
+        "userID": "61553895001939",
+        "name": "Mö Zzä",
+        "vanity": "61553895001939",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1708136822429
+        },
+        "data": {
+            "timestamp": 1708136822429
+        },
+        "lastUpdate": 1708136822429
+    },
+    "61553917562976": {
+        "userID": "61553917562976",
+        "name": "Phany Ouedrogo",
+        "vanity": "61553917562976",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1708136822619
+        },
+        "data": {
+            "timestamp": 1708136822619
+        },
+        "lastUpdate": 1708136822619
+    },
+    "61554173113169": {
+        "userID": "61554173113169",
+        "name": "D-ABot",
+        "vanity": "Deadline.Mangas.bot",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1708136822821
+        },
+        "data": {
+            "timestamp": 1708136822821
+        },
+        "lastUpdate": 1708136822821
+    },
+    "61554267383336": {
+        "userID": "61554267383336",
+        "name": "Aziz Tiemtore",
+        "vanity": "61554267383336",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1708136823010
+        },
+        "data": {
+            "timestamp": 1708136823010
+        },
+        "lastUpdate": 1708136823010
+    },
+    "61554376971915": {
+        "userID": "61554376971915",
+        "name": "ᏃᏋᏝᎢᎯ ᏎᏮ ᏦᎯᏴᏬᎢᎧ",
+        "vanity": "61554376971915",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1708136823195
+        },
+        "data": {
+            "timestamp": 1708136823195
+        },
+        "lastUpdate": 1708136823195
+    },
+    "61554608954672": {
+        "userID": "61554608954672",
+        "name": "Georgina Mveng",
+        "vanity": "61554608954672",
+        "gender": 1,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1708136823395
+        },
+        "data": {
+            "timestamp": 1708136823395
+        },
+        "lastUpdate": 1708136823395
+    },
+    "61554749505049": {
+        "userID": "61554749505049",
+        "name": "Wendy Prime",
+        "vanity": "61554749505049",
+        "gender": 1,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1708136823579
+        },
+        "data": {
+            "timestamp": 1708136823579
+        },
+        "lastUpdate": 1708136823579
+    },
+    "61554822433766": {
+        "userID": "61554822433766",
+        "name": "Lucy Hartfilia",
+        "vanity": "61554822433766",
+        "gender": 1,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1708136823777
+        },
+        "data": {
+            "timestamp": 1708136823777
+        },
+        "lastUpdate": 1708136823777
+    },
+    "61554825007548": {
+        "userID": "61554825007548",
+        "name": "Wendigo Zeno",
+        "vanity": "61554825007548",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1708136823977
+        },
+        "data": {
+            "timestamp": 1708136823977
+        },
+        "lastUpdate": 1708136823977
+    },
+    "61554862253548": {
+        "userID": "61554862253548",
+        "name": "Jennie Mmb",
+        "vanity": "61554862253548",
+        "gender": 1,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1708136824164
+        },
+        "data": {
+            "timestamp": 1708136824164
+        },
+        "lastUpdate": 1708136824164
+    },
+    "61554903337400": {
+        "userID": "61554903337400",
+        "name": "ʚĭɞ Tamara ʚĭɞ",
+        "vanity": "61554903337400",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1708136824361
+        },
+        "data": {
+            "timestamp": 1708136824361
+        },
+        "lastUpdate": 1708136824361
+    },
+    "61554999746909": {
+        "userID": "61554999746909",
+        "name": "Félix infinity",
+        "vanity": "felix.infinity.2023",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1708136824560
+        },
+        "data": {
+            "timestamp": 1708136824560
+        },
+        "lastUpdate": 1708136824560
+    },
+    "61555033330227": {
+        "userID": "61555033330227",
+        "name": "Hackula Cybernétique",
+        "vanity": "61555033330227",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1708136824756
+        },
+        "data": {
+            "timestamp": 1708136824756
+        },
+        "lastUpdate": 1708136824756
+    },
+    "61555131842982": {
+        "userID": "61555131842982",
+        "name": "Carlos Vladimir",
+        "vanity": "61555131842982",
+        "gender": 1,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1708136824954
+        },
+        "data": {
+            "timestamp": 1708136824954
+        },
+        "lastUpdate": 1708136824954
+    },
+    "61555171719865": {
+        "userID": "61555171719865",
+        "name": "ɞɞ pussy ɞɞ",
+        "vanity": "Meuffofolle",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1708136825151
+        },
+        "data": {
+            "timestamp": 1708136825151
+        },
+        "lastUpdate": 1708136825151
+    },
+    "61555177971664": {
+        "userID": "61555177971664",
+        "name": "Nova Įce",
+        "vanity": "61555177971664",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1708136825368
+        },
+        "data": {
+            "timestamp": 1708136825368
+        },
+        "lastUpdate": 1708136825368
+    },
+    "61555233176403": {
+        "userID": "61555233176403",
+        "name": "Tk Bot",
+        "vanity": "61555233176403",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1708136825560
+        },
+        "data": {
+            "timestamp": 1708136825560
+        },
+        "lastUpdate": 1708136825560
+    },
+    "61555252425819": {
+        "userID": "61555252425819",
+        "name": "ᏋᎷᎮᏋᏒᎧᏒ ᏦᎥᏝᏝᏋᏒᏕ",
+        "vanity": "61555252425819",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1708136825748
+        },
+        "data": {
+            "timestamp": 1708136825748
+        },
+        "lastUpdate": 1708136825748
+    },
+    "61555258696553": {
+        "userID": "61555258696553",
+        "name": "Mahouenan Merveil Junior Johnson",
+        "vanity": "61555258696553",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1708136825945
+        },
+        "data": {
+            "timestamp": 1708136825945
+        },
+        "lastUpdate": 1708136825945
+    },
+    "61555354393613": {
+        "userID": "61555354393613",
+        "name": "Rova Romario",
+        "vanity": "61555354393613",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1708136826137
+        },
+        "data": {
+            "timestamp": 1708136826137
+        },
+        "lastUpdate": 1708136826137
+    },
+    "61555356023806": {
+        "userID": "61555356023806",
+        "name": "Yasmine Jura",
+        "vanity": "yasmine.jura.2024",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1708136826329
+        },
+        "data": {
+            "timestamp": 1708136826329
+        },
+        "lastUpdate": 1708136826329
+    },
+    "61555364323693": {
+        "userID": "61555364323693",
+        "name": "Mikmon Hinata",
+        "vanity": "Hin.at34a993",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1708136826523
+        },
+        "data": {
+            "timestamp": 1708136826523
+        },
+        "lastUpdate": 1708136826523
+    },
+    "61555403104502": {
+        "userID": "61555403104502",
+        "name": "Raniars Bot",
+        "vanity": "61555403104502",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1708136826706
+        },
+        "data": {
+            "timestamp": 1708136826706
+        },
+        "lastUpdate": 1708136826706
+    },
+    "61555499811056": {
+        "userID": "61555499811056",
+        "name": "ʚɸɞ Shisato ʚɸɞ Madimba",
+        "vanity": "61555499811056",
+        "gender": 1,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1708136826899
+        },
+        "data": {
+            "timestamp": 1708136826899
+        },
+        "lastUpdate": 1708136826899
+    },
+    "61555503727356": {
+        "userID": "61555503727356",
+        "name": "Ranis Ranit",
+        "vanity": "61555503727356",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1708136827097
+        },
+        "data": {
+            "timestamp": 1708136827097
+        },
+        "lastUpdate": 1708136827097
+    },
+    "61555539222818": {
+        "userID": "61555539222818",
+        "name": "Lights Zoldick",
+        "vanity": "61555539222818",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1708136827299
+        },
+        "data": {
+            "timestamp": 1708136827299
+        },
+        "lastUpdate": 1708136827299
+    },
+    "61555553803398": {
+        "userID": "61555553803398",
+        "name": "Kanox Bot",
+        "vanity": "61555553803398",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1708136827501
+        },
+        "data": {
+            "timestamp": 1708136827501
+        },
+        "lastUpdate": 1708136827501
+    },
+    "61555582452090": {
+        "userID": "61555582452090",
+        "name": "Jennie Kim",
+        "vanity": "61555582452090",
+        "gender": 1,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1708136828026
+        },
+        "data": {
+            "timestamp": 1708136828026
+        },
+        "lastUpdate": 1708136828026
+    },
+    "61555615603269": {
+        "userID": "61555615603269",
+        "name": "Goddess-Aesther Snchkuin",
+        "vanity": "61555615603269",
+        "gender": 1,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1708136828220
+        },
+        "data": {
+            "timestamp": 1708136828220
+        },
+        "lastUpdate": 1708136828220
+    },
+    "100085404619088": {
+        "userID": "100085404619088",
+        "name": "Jonas Le Scouteur",
+        "vanity": "100085404619088",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 1,
+        "createTime": {
+            "timestamp": 1708137152800
+        },
+        "data": {
+            "timestamp": 1708137152800
+        },
+        "lastUpdate": 1708137152800
+    },
+    "61555634406859": {
+        "userID": "61555634406859",
+        "name": "ۦۦۦۦۦۦۦۦۦۦ ۦۦۦۦ ۦۦۦۦۦۦۦۦۦۦ ۦۦۦۦۦۦۦۦۦۦ",
+        "vanity": "61555634406859",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1708137153438
+        },
+        "data": {
+            "timestamp": 1708137153438
+        },
+        "lastUpdate": 1708137153438
+    },
+    "61555635124191": {
+        "userID": "61555635124191",
+        "name": "Kati Nara",
+        "vanity": "kati.nara188",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1708137153646
+        },
+        "data": {
+            "timestamp": 1708137153646
+        },
+        "lastUpdate": 1708137153646
+    },
+    "61555641503100": {
+        "userID": "61555641503100",
+        "name": "Helena Json",
+        "vanity": "61555641503100",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1708137153892
+        },
+        "data": {
+            "timestamp": 1708137153892
+        },
+        "lastUpdate": 1708137153892
+    },
+    "61555661824321": {
+        "userID": "61555661824321",
+        "name": "Kurea Ouedraogo",
+        "vanity": "61555661824321",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1708137154118
+        },
+        "data": {
+            "timestamp": 1708137154118
+        },
+        "lastUpdate": 1708137154118
+    },
+    "61555739926610": {
+        "userID": "61555739926610",
+        "name": "Ben Elliot",
+        "vanity": "61555739926610",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1708137154342
+        },
+        "data": {
+            "timestamp": 1708137154342
+        },
+        "lastUpdate": 1708137154342
+    },
+    "61555761819934": {
+        "userID": "61555761819934",
+        "name": "Zelta Zae-bot",
+        "vanity": "hushimora",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1708137154925
+        },
+        "data": {
+            "timestamp": 1708137154925
+        },
+        "lastUpdate": 1708137154925
+    },
+    "61555812254390": {
+        "userID": "61555812254390",
+        "name": "Madara Uchiwa",
+        "vanity": "61555812254390",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1708137155128
+        },
+        "data": {
+            "timestamp": 1708137155128
+        },
+        "lastUpdate": 1708137155128
+    },
+    "61555827705035": {
+        "userID": "61555827705035",
+        "name": "Rishanice Le Missile",
+        "vanity": "61555827705035",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1708137155333
+        },
+        "data": {
+            "timestamp": 1708137155333
+        },
+        "lastUpdate": 1708137155333
+    },
+    "61555837535209": {
+        "userID": "61555837535209",
+        "name": "Rova Romario Pva",
+        "vanity": "61555837535209",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1708137155575
+        },
+        "data": {
+            "timestamp": 1708137155575
+        },
+        "lastUpdate": 1708137155575
+    },
+    "61555840642286": {
+        "userID": "61555840642286",
+        "name": "ʚɸɞ Shisato ʚɸɞ Madimba",
+        "vanity": "61555840642286",
+        "gender": 1,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1708137155815
+        },
+        "data": {
+            "timestamp": 1708137155815
+        },
+        "lastUpdate": 1708137155815
+    },
+    "61555852274532": {
+        "userID": "61555852274532",
+        "name": "Frida Milu",
+        "vanity": "61555852274532",
+        "gender": 1,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1708137156092
+        },
+        "data": {
+            "timestamp": 1708137156092
+        },
+        "lastUpdate": 1708137156092
+    },
+    "61555878043437": {
+        "userID": "61555878043437",
+        "name": "ʚʆɞ Zęphįrę ʚʆɞ Øtsütsükį",
+        "vanity": "61555878043437",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1708137156326
+        },
+        "data": {
+            "timestamp": 1708137156326
+        },
+        "lastUpdate": 1708137156326
+    },
+    "61555883019519": {
+        "userID": "61555883019519",
+        "name": "Roogerr",
+        "vanity": "roogerr.2024",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1708137156578
+        },
+        "data": {
+            "timestamp": 1708137156578
+        },
+        "lastUpdate": 1708137156578
+    },
+    "61555890219303": {
+        "userID": "61555890219303",
+        "name": "Elea Elea",
+        "vanity": "61555890219303",
+        "gender": 1,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1708137156791
+        },
+        "data": {
+            "timestamp": 1708137156791
+        },
+        "lastUpdate": 1708137156791
+    },
+    "61555891568911": {
+        "userID": "61555891568911",
+        "name": "Kĩm Bìø",
+        "vanity": "61555891568911",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1708137157028
+        },
+        "data": {
+            "timestamp": 1708137157028
+        },
+        "lastUpdate": 1708137157028
+    },
+    "61555895284134": {
+        "userID": "61555895284134",
+        "name": "Gazo Bot Bsb",
+        "vanity": "61555895284134",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1708137157259
+        },
+        "data": {
+            "timestamp": 1708137157259
+        },
+        "lastUpdate": 1708137157259
+    },
+    "61555919008415": {
+        "userID": "61555919008415",
+        "name": "Marceline Nanga",
+        "vanity": "61555919008415",
+        "gender": 1,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1708137157466
+        },
+        "data": {
+            "timestamp": 1708137157466
+        },
+        "lastUpdate": 1708137157466
+    },
+    "61555925034733": {
+        "userID": "61555925034733",
+        "name": "Tchinda Azice",
+        "vanity": "61555925034733",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1708137157706
+        },
+        "data": {
+            "timestamp": 1708137157706
+        },
+        "lastUpdate": 1708137157706
+    },
+    "61556001292609": {
+        "userID": "61556001292609",
+        "name": "ʬɸʬ Zeno ʬɸʬ Otsutsuki",
+        "vanity": "61556001292609",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1708137157935
+        },
+        "data": {
+            "timestamp": 1708137157935
+        },
+        "lastUpdate": 1708137157935
+    },
+    "61556081606263": {
+        "userID": "61556081606263",
+        "name": "Tk Bot",
+        "vanity": "61556081606263",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1708137158134
+        },
+        "data": {
+            "timestamp": 1708137158134
+        },
+        "lastUpdate": 1708137158134
+    },
+    "61556083771358": {
+        "userID": "61556083771358",
+        "name": "Anja Rara",
+        "vanity": "61556083771358",
+        "gender": 1,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1708137158335
+        },
+        "data": {
+            "timestamp": 1708137158335
+        },
+        "lastUpdate": 1708137158335
+    },
+    "61556107741949": {
+        "userID": "61556107741949",
+        "name": "Thales Gracess",
+        "vanity": "61556107741949",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1708137158581
+        },
+        "data": {
+            "timestamp": 1708137158581
+        },
+        "lastUpdate": 1708137158581
+    },
+    "61556137502949": {
+        "userID": "61556137502949",
+        "name": "Fabric Oudriogo",
+        "vanity": "61556137502949",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1708137158790
+        },
+        "data": {
+            "timestamp": 1708137158790
+        },
+        "lastUpdate": 1708137158790
+    },
+    "61556141949841": {
+        "userID": "61556141949841",
+        "name": "Gold Roger",
+        "vanity": "61556141949841",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1708137159003
+        },
+        "data": {
+            "timestamp": 1708137159003
+        },
+        "lastUpdate": 1708137159003
+    },
+    "61556173314601": {
+        "userID": "61556173314601",
+        "name": "Marcus Thehell",
+        "vanity": "61556173314601",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1708137159235
+        },
+        "data": {
+            "timestamp": 1708137159235
+        },
+        "lastUpdate": 1708137159235
+    },
+    "61556214060631": {
+        "userID": "61556214060631",
+        "name": "Sasuke Uchiwä",
+        "vanity": "61556214060631",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1708137159693
+        },
+        "data": {
+            "timestamp": 1708137159693
+        },
+        "lastUpdate": 1708137159693
+    },
+    "61556292262332": {
+        "userID": "61556292262332",
+        "name": "Rio Kaes",
+        "vanity": "61556292262332",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1708137159888
+        },
+        "data": {
+            "timestamp": 1708137159888
+        },
+        "lastUpdate": 1708137159888
+    },
+    "61556385200643": {
+        "userID": "61556385200643",
+        "name": "Anja Aryan",
+        "vanity": "61556385200643",
+        "gender": 1,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1708137160118
+        },
+        "data": {
+            "timestamp": 1708137160118
+        },
+        "lastUpdate": 1708137160118
+    },
+    "61556386970737": {
+        "userID": "61556386970737",
+        "name": "ۦۦۦۦۦۦۦۦۦۦ ۦۦۦۦۦۦۦۦۦۦ ۦۦۦۦۦۦۦۦۦۦ ۦۦۦۦۦۦۦۦۦۦ",
+        "vanity": "61556386970737",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1708137160357
+        },
+        "data": {
+            "timestamp": 1708137160357
+        },
+        "lastUpdate": 1708137160357
+    },
+    "61556405245008": {
+        "userID": "61556405245008",
+        "name": "Pop Smiley",
+        "vanity": "61556405245008",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1708137160586
+        },
+        "data": {
+            "timestamp": 1708137160586
+        },
+        "lastUpdate": 1708137160586
+    },
+    "61556561966066": {
+        "userID": "61556561966066",
+        "name": "Danzo Zeno",
+        "vanity": "61556561966066",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1708137160790
+        },
+        "data": {
+            "timestamp": 1708137160790
+        },
+        "lastUpdate": 1708137160790
+    },
+    "100000932507369": {
+        "userID": "100000932507369",
+        "name": "Feno Fahendrena",
+        "vanity": "100000932507369",
+        "gender": 1,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1708137160988
+        },
+        "data": {
+            "timestamp": 1708137160988
+        },
+        "lastUpdate": 1708137160988
+    },
+    "100003995352544": {
+        "userID": "100003995352544",
+        "name": "Huyghens Houessou",
+        "vanity": "huyghensrodrigue.houessou",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1708137161229
+        },
+        "data": {
+            "timestamp": 1708137161229
+        },
+        "lastUpdate": 1708137161229
+    },
+    "100006274510474": {
+        "userID": "100006274510474",
+        "name": "Romario Pham Van Ai",
+        "vanity": "phamvanai.romario",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1708137161446
+        },
+        "data": {
+            "timestamp": 1708137161446
+        },
+        "lastUpdate": 1708137161446
+    },
+    "100012591492343": {
+        "userID": "100012591492343",
+        "name": "Zephirin Toffa",
+        "vanity": "zephirin.toffa",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1708137161682
+        },
+        "data": {
+            "timestamp": 1708137161682
+        },
+        "lastUpdate": 1708137161682
+    },
+    "100019373166857": {
+        "userID": "100019373166857",
+        "name": "Wariel Akata",
+        "vanity": "wariel.akata",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1708137161964
+        },
+        "data": {
+            "timestamp": 1708137161964
+        },
+        "lastUpdate": 1708137161964
+    },
+    "100020699087706": {
+        "userID": "100020699087706",
+        "name": "Teken",
+        "vanity": "tsiory.fanantenana.773",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1708137162161
+        },
+        "data": {
+            "timestamp": 1708137162161
+        },
+        "lastUpdate": 1708137162161
+    },
+    "100022832253709": {
+        "userID": "100022832253709",
+        "name": "Tõn Tõn Süñg's",
+        "vanity": "laure.sungimina.7",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1708137162359
+        },
+        "data": {
+            "timestamp": 1708137162359
+        },
+        "lastUpdate": 1708137162359
+    },
+    "100023984823718": {
+        "userID": "100023984823718",
+        "name": "Gold Roger",
+        "vanity": "100023984823718",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1708137162553
+        },
+        "data": {
+            "timestamp": 1708137162553
+        },
+        "lastUpdate": 1708137162553
+    },
+    "100024791803754": {
+        "userID": "100024791803754",
+        "name": "Tsoa",
+        "vanity": "my.acc.567",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1708137162762
+        },
+        "data": {
+            "timestamp": 1708137162762
+        },
+        "lastUpdate": 1708137162762
+    },
+    "100028432330914": {
+        "userID": "100028432330914",
+        "name": "Arnisa A. Sabturani",
+        "vanity": "100028432330914",
+        "gender": 1,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1708137162965
+        },
+        "data": {
+            "timestamp": 1708137162965
+        },
+        "lastUpdate": 1708137162965
+    },
+    "100032954001276": {
+        "userID": "100032954001276",
+        "name": "Msr Le Charme",
+        "vanity": "mrslecharme21",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1708137163169
+        },
+        "data": {
+            "timestamp": 1708137163169
+        },
+        "lastUpdate": 1708137163169
+    },
+    "100033904547939": {
+        "userID": "100033904547939",
+        "name": "Angela Carter",
+        "vanity": "hamaku.kanema",
+        "gender": 1,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1708137163408
+        },
+        "data": {
+            "timestamp": 1708137163408
+        },
+        "lastUpdate": 1708137163408
+    },
+    "100035556902945": {
+        "userID": "100035556902945",
+        "name": "Enfant Bénit Omo Ologo",
+        "vanity": "bertrandescorpion.adantchede",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1708137163612
+        },
+        "data": {
+            "timestamp": 1708137163612
+        },
+        "lastUpdate": 1708137163612
+    },
+    "100035625884643": {
+        "userID": "100035625884643",
+        "name": "Ma Joie",
+        "vanity": "maltasar.dasilva",
+        "gender": 1,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1708137163810
+        },
+        "data": {
+            "timestamp": 1708137163810
+        },
+        "lastUpdate": 1708137163810
+    },
+    "100039602480879": {
+        "userID": "100039602480879",
+        "name": "Nùrdine Sanfo",
+        "vanity": "nurdine.sanfo",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1708137164049
+        },
+        "data": {
+            "timestamp": 1708137164049
+        },
+        "lastUpdate": 1708137164049
+    },
+    "100039847092226": {
+        "userID": "100039847092226",
+        "name": "Josue Lum's",
+        "vanity": "josue.lufulu.39",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1708137164245
+        },
+        "data": {
+            "timestamp": 1708137164245
+        },
+        "lastUpdate": 1708137164245
+    },
+    "100039967193086": {
+        "userID": "100039967193086",
+        "name": "Tanjeer Khan",
+        "vanity": "mdtanjeer.hapue",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1708137164486
+        },
+        "data": {
+            "timestamp": 1708137164486
+        },
+        "lastUpdate": 1708137164486
+    },
+    "100040536187377": {
+        "userID": "100040536187377",
+        "name": "うちはイタチ おばけ",
+        "vanity": "gerard.agbangba.5",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1708137164697
+        },
+        "data": {
+            "timestamp": 1708137164697
+        },
+        "lastUpdate": 1708137164697
+    },
+    "100041517330042": {
+        "userID": "100041517330042",
+        "name": "Abia Abigael",
+        "vanity": "abia.abigael.9",
+        "gender": 1,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1708137164924
+        },
+        "data": {
+            "timestamp": 1708137164924
+        },
+        "lastUpdate": 1708137164924
+    },
+    "100041841881488": {
+        "userID": "100041841881488",
+        "name": "Bruno",
+        "vanity": "bruno.rakotomalala.7549",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1708137165127
+        },
+        "data": {
+            "timestamp": 1708137165127
+        },
+        "lastUpdate": 1708137165127
+    },
+    "100041931185888": {
+        "userID": "100041931185888",
+        "name": "Frido Frido",
+        "vanity": "fidele.damagi",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1708137165373
+        },
+        "data": {
+            "timestamp": 1708137165373
+        },
+        "lastUpdate": 1708137165373
+    },
+    "100045014347921": {
+        "userID": "100045014347921",
+        "name": "Richard Tardyande",
+        "vanity": "filsdutonnere.taondyande",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1708137165578
+        },
+        "data": {
+            "timestamp": 1708137165578
+        },
+        "lastUpdate": 1708137165578
+    },
+    "100045950114034": {
+        "userID": "100045950114034",
+        "name": "Samy Mg",
+        "vanity": "samuel.mboula.3",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1708137165817
+        },
+        "data": {
+            "timestamp": 1708137165817
+        },
+        "lastUpdate": 1708137165817
+    },
+    "100046072403427": {
+        "userID": "100046072403427",
+        "name": "ユージン・ ザ・バレンタイン",
+        "vanity": "cedric.dossou.1276",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1708137166016
+        },
+        "data": {
+            "timestamp": 1708137166016
+        },
+        "lastUpdate": 1708137166016
+    },
+    "100050637524770": {
+        "userID": "100050637524770",
+        "name": "TeTo TeTo TeTo",
+        "vanity": "hernandario.ledg",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1708137166218
+        },
+        "data": {
+            "timestamp": 1708137166218
+        },
+        "lastUpdate": 1708137166218
+    },
+    "100052056750911": {
+        "userID": "100052056750911",
+        "name": "Mïtantsoa Thinat",
+        "vanity": "Mitantsoa.Th",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1708137166832
+        },
+        "data": {
+            "timestamp": 1708137166832
+        },
+        "lastUpdate": 1708137166832
+    },
+    "100052621812258": {
+        "userID": "100052621812258",
+        "name": "Karma",
+        "vanity": "100052621812258",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1708137167033
+        },
+        "data": {
+            "timestamp": 1708137167033
+        },
+        "lastUpdate": 1708137167033
+    },
+    "100055243120943": {
+        "userID": "100055243120943",
+        "name": "Hanif Saïbou",
+        "vanity": "hanif.saibou.71",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1708137167231
+        },
+        "data": {
+            "timestamp": 1708137167231
+        },
+        "lastUpdate": 1708137167231
+    },
+    "100055901528164": {
+        "userID": "100055901528164",
+        "name": "SH AN TO",
+        "vanity": "100055901528164",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1708137167463
+        },
+        "data": {
+            "timestamp": 1708137167463
+        },
+        "lastUpdate": 1708137167463
+    },
+    "100058812987165": {
+        "userID": "100058812987165",
+        "name": "Leroy Kemayou",
+        "vanity": "100058812987165",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1708137167668
+        },
+        "data": {
+            "timestamp": 1708137167668
+        },
+        "lastUpdate": 1708137167668
+    },
+    "100064845625881": {
+        "userID": "100064845625881",
+        "name": "Ashed A Hãlïm",
+        "vanity": "princeabubujr.halims",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1708137167919
+        },
+        "data": {
+            "timestamp": 1708137167919
+        },
+        "lastUpdate": 1708137167919
+    },
+    "100065030264164": {
+        "userID": "100065030264164",
+        "name": "Mãgúîdòù Lechouchatier Dútrēízę",
+        "vanity": "maguidou.casemiro.7",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1708137168131
+        },
+        "data": {
+            "timestamp": 1708137168131
+        },
+        "lastUpdate": 1708137168131
+    },
+    "100065040470774": {
+        "userID": "100065040470774",
+        "name": "Bruno Rakotomalala",
+        "vanity": "bruno.rakotomalala.1000",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1708137168363
+        },
+        "data": {
+            "timestamp": 1708137168363
+        },
+        "lastUpdate": 1708137168363
+    },
+    "100065307742376": {
+        "userID": "100065307742376",
+        "name": "Kùrô Ashï",
+        "vanity": "aiger.akabane.9216",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1708137168565
+        },
+        "data": {
+            "timestamp": 1708137168565
+        },
+        "lastUpdate": 1708137168565
+    },
+    "100068391701049": {
+        "userID": "100068391701049",
+        "name": "Iaro Sanda🇲🇬👑",
+        "vanity": "Iaro.Sanda",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1708137168801
+        },
+        "data": {
+            "timestamp": 1708137168801
+        },
+        "lastUpdate": 1708137168801
+    },
+    "100069645639365": {
+        "userID": "100069645639365",
+        "name": "Robert Gandonou",
+        "vanity": "100069645639365",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1708137169263
+        },
+        "data": {
+            "timestamp": 1708137169263
+        },
+        "lastUpdate": 1708137169263
+    },
+    "100069746629956": {
+        "userID": "100069746629956",
+        "name": "Agape Blaire",
+        "vanity": "agapeblaire.cleverand",
+        "gender": 1,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1708137169507
+        },
+        "data": {
+            "timestamp": 1708137169507
+        },
+        "lastUpdate": 1708137169507
+    },
+    "100070194264042": {
+        "userID": "100070194264042",
+        "name": "Chirack Mwilikwa",
+        "vanity": "chirack.mwilikwa",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1708137169741
+        },
+        "data": {
+            "timestamp": 1708137169741
+        },
+        "lastUpdate": 1708137169741
+    },
+    "100070833840454": {
+        "userID": "100070833840454",
+        "name": "Ezekiel Wînnèr",
+        "vanity": "100070833840454",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1708137169974
+        },
+        "data": {
+            "timestamp": 1708137169974
+        },
+        "lastUpdate": 1708137169974
+    },
+    "100071516131616": {
+        "userID": "100071516131616",
+        "name": "Gold Roger",
+        "vanity": "100071516131616",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1708137170206
+        },
+        "data": {
+            "timestamp": 1708137170206
+        },
+        "lastUpdate": 1708137170206
+    }
+}

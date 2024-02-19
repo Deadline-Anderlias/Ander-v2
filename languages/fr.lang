@@ -1,0 +1,107 @@
+# Si vous souhaitez passer à la ligne suivante, veuillez utiliser \n. par exemple : SpermLord\nCatalizcs.
+# Après avoir apporté des modifications, vous devez redémarrer le bot pour les appliquer.
+# Mettez le caractère # au début de chaque phrase si vous ne voulez pas que le code exécute ces lignes.
+# Merci à https://www.facebook.com/duong.than.net pour la traduction en anglais !
+# Ajout de plus de texte par Yan Maglinte ! Certains peuvent ne pas être visibles depuis d'autres fichiers s'ils n'ont pas ce fichier.
+
+# mirai.js
+
+mirai.errorFormat=Module mal formé !
+mirai.nameExist=Le nom du module est similaire à un autre module !
+mirai.notFoundLanguage=Le module %1 ne prend pas en charge votre langue.
+mirai.notFoundPackage=Impossible de trouver le package %1 pris en charge pour le module %2, installation...
+mirai.cantInstallPackage=Impossible d'installer le package %1 pour le module %2, erreur : %3
+mirai.loadedPackage=Package entier installé avec succès pour le module %1
+mirai.loadedConfig=Configuration installée avec succès pour le module %1
+mirai.cantLoadConfig=Impossible d'installer la configuration du module %1, erreur : %2
+mirai.cantOnload=Impossible de lancer la configuration du module %1, erreur : %1
+mirai.successLoadModule=Module installé avec succès %1
+mirai.failLoadModule=Impossible d'installer le module %1, erreur : %2
+mirai.finishLoadModule=Commandes du module %1 et événements du module %2 installés avec succès
+mirai.foundPathAppstate=Fichier appstate trouvé
+mirai.notFoundPathAppstate=Impossible de trouver le fichier appstate
+mirai.checkListGban=Vérification de la liste des interdictions mondiales...
+mirai.banDevice=Votre appareil a été interdit par miraiproject, veuillez contacter Facebook https://fb.me/PhamVanDien.User pour obtenir plus d'informations ou demander une clé de débannissement. Si vous avez déjà une clé de débannissement, veuillez la saisir ci-dessous.
+mirai.keyNotSameFormat=Format incorrect, le code doit contenir 6 chiffres.
+mirai.codeInputExpired=Votre code est incorrect ou a expiré.
+mirai.unbanDeviceSuccess=Votre appareil est maintenant débanni, veuillez redémarrer pour utiliser.
+mirai.userBanned=Vous avez été banni de miraiproject le %1 avec la raison : %2. Veuillez contacter Facebook https://fb.me/PhamVanDien.User pour obtenir plus d'informations !
+mirai.finishCheckListGban=Liste d'interdictions mondiales vérifiée
+mirai.handleListenError=Une erreur inattendue est survenue dans handleListene, erreur : %1
+mirai.warningSourceCode=DÉTECTION D'UN CHANGEMENT DE STRUCTURE DU CODE SOURCE, ARRÊTEZ MAINTENANT !
+mirai.refreshListen=handleListener rafraîchi...
+mirai.successConnectDatabase=Connexion à la base de données réussie !
+mirai.failConnectDatabase=Impossible de se connecter à la base de données, erreur : %1
+
+# includes/listen.js
+
+listen.startLoadEnvironment=Passage au chargement des variables d'environnement...
+listen.loadedEnvironmentThread=Chargement réussi des variables d'environnement du thread
+listen.loadedEnvironmentUser=Chargement réussi des variables d'environnement utilisateur
+listen.successLoadEnvironment=Chargement réussi des variables d'environnement
+listen.failLoadEnvironment=Impossible de charger les variables d'environnement, erreur : %1
+
+# includes/controller/currencies.js
+
+currencies.needObjectOrArray=Doit être un tableau ou un objet, voire les deux
+currencies.needObject=Doit être un objet
+currencies.needNumber=Doit être un nombre
+
+# includes/controller/threads.js
+
+threads.needObjectOrArray=Doit être un tableau ou un objet, voire les deux
+threads.needObject=Doit être un objet
+
+# includes/controller/users.js
+
+users.needObjectOrArray=Doit être un tableau ou un objet, voire les deux
+users.needObject=Doit être un objet
+
+# includes/handle/handleCommand.js
+
+handleCommand.userBanned=Vous ne pouvez pas utiliser le bot !\n%1\n%2
+handleCommand.threadBanned=Votre thread ne peut pas utiliser le bot !\n%1\n%2
+handleCommand.commandNotExist=🔴- 𝘓𝘢 𝘤𝘰𝘮𝘮𝘢𝘯𝘥𝘦 𝘶𝘵𝘪𝘭𝘪𝘴𝘦𝘳 𝘯'𝘦𝘴𝘵 𝘱𝘢𝘴 𝘤𝘰𝘳𝘳𝘦𝘤𝘵, 𝘦𝘴-𝘤𝘦 "%1" 𝘰𝘶 𝘱𝘢𝘴 ?
+handleCommand.commandThreadBanned=Votre thread ne peut pas utiliser la commande "%1"
+handleCommand.commandUserBanned=Vous ne pouvez pas utiliser la commande "%1"
+handleCommand.threadNotAllowNSFW=Votre thread n'est pas autorisé à utiliser les commandes NSFW
+handleCommand.cantGetInfoThread=Impossible d'obtenir les informations de votre thread, erreur : %1
+handleCommand.permissionNotEnough=🟢- 𝘝𝘰𝘶𝘴 𝘯𝘦 𝘱𝘰𝘶𝘷𝘦𝘻 𝘱𝘢𝘴 𝘶𝘵𝘪𝘭𝘪𝘴𝘦𝘳 𝘭𝘢 𝘤𝘰𝘮𝘮𝘢𝘯𝘥𝘦 "%1"
+handleCommand.cantSetMessageReaction=Erreur inattendue lors de setMessageReaction, erreur : %1
+handleCommand.executeCommand=[ %1 ] Commande utilisée : %2 par l'utilisateur : %3 sur le thread : %4 | Arguments inclus : %5 | Temps de traitement : %6ms
+handleCommand.commandError=Erreur inattendue lors de l'utilisation de la commande %1, erreur : %2
+handleCommand.notMatched=🟡- 𝘊𝘦𝘵𝘵𝘦 𝘤𝘰𝘮𝘮𝘢𝘯𝘥𝘦 𝘯'𝘢𝘴 𝘱𝘢𝘴 𝘣𝘦𝘴𝘰𝘪𝘯 𝘥𝘦 𝗽𝗿𝗲𝗳𝗶𝘅 𝘱𝘰𝘶𝘳 𝘴'𝘦𝘹𝘦𝘤𝘶𝘵𝘦𝘳.
+handleCommand.noPrefix=🟢- 𝘊'𝘦𝘵𝘵𝘦 𝘤𝘰𝘮𝘮𝘢𝘯𝘥𝘦 𝘯'𝘢 𝘱𝘢𝘴 𝘭𝘢 𝘱𝘳𝘰𝘱𝘳𝘪é𝘵é 𝘥𝘦 𝘤𝘰𝘯𝘧𝘪𝘨𝘶𝘳𝘢𝘵𝘪𝘰𝘯 𝘥𝘦 𝘤𝘰𝘮𝘮𝘢𝘯𝘥𝘦 "usePrefix"
+handleCommand.commandNotFound=La commande que vous avez utilisée n'existe pas.
+
+# includes/handle/handleCommandEvent.js
+
+handleCommandEvent.moduleError=Erreur inattendue lors de l'utilisation de la commande %1, erreur : %2
+
+# includes/handle/handleCreateDatabase.js
+
+handleCreateDatabase.newThread=nouveau thread : %1
+handleCreateDatabase.newUser=nouvel utilisateur %1
+
+# includes/handle/handleEvent.js
+
+handleEvent.executeEvent=[ %1 ] L'événement a été exécuté : %2 sur le thread : %3 | Temps de traitement : %4ms
+handleEvent.eventError=Erreur lors de l'exécution de l'événement %1, erreur : %12
+
+# includes/handle/handleReaction.js
+
+handleReaction.missingValue=Valeur manquante pour répondre à votre problème
+handleReaction.executeError=Erreur lors de la réponse à votre problème, erreur : %1
+
+# includes/handle/handleReply.js
+
+handleReply.missingValue=Valeur manquante pour répondre à votre problème
+handleReply.executeError=Erreur lors de la réponse à votre problème, erreur : %1
+
+# includes/handle/handleSchedule.js
+
+handleSchedule.exectuteError=Erreur lors de la planification du module %1, erreur : %2
+
+# utils/index.js
+
+utils.throwError=🟠- 𝘓𝘢 𝘤𝘰𝘮𝘮𝘢𝘯𝘥𝘦 𝘲𝘶𝘦 𝘷𝘰𝘶𝘴 𝘶𝘵𝘪𝘭𝘪𝘴𝘦𝘻 𝘯'𝘦𝘴𝘵 𝘱𝘢𝘴 𝘤𝘰𝘳𝘳𝘦𝘤𝘵. 𝘝𝘦𝘶𝘪𝘭𝘭𝘦𝘻 𝘧𝘢𝘪𝘳𝘦 %1help %2 𝘱𝘰𝘶𝘳 𝘱𝘭𝘶𝘴 𝘥𝘦 𝘥é𝘵𝘢𝘪𝘭𝘴 𝘴𝘶𝘳 𝘭'𝘶𝘵𝘪𝘭𝘪𝘴𝘢𝘵𝘪𝘰𝘯.

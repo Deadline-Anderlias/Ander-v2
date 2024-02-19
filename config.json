@@ -1,0 +1,101 @@
+{
+  "language": "fr",
+  "DeveloperMode": true,
+  "autoCreateDB": false,
+  "allowInbox": true,
+  "autoClean": true,
+  "adminOnly": false,
+  "encryptSt": true,
+  "removeSt": false,
+  "UPDATE": {
+    "Package": true,
+    "EXCLUDED": [
+      "chalk",
+      "mqtt"
+    ]
+  },
+  "commandDisabled": [],
+  "eventDisabled": [],
+  "BOTNAME": "𝗔𝗻𝗱𝗲𝗿",
+  "PREFIX": ">",
+  "ADMINBOT": [
+    "100095041099806",
+    ""
+  ],
+  "FACEBOOK": "facebook.com/anderlias",
+  "DESIGN": {
+    "Title": "BotPack",
+    "Theme": "Flower",
+    "Admin": "𝖣𝖾𝖺𝖽𝗅𝗂𝗇𝖾 𝖠𝗇𝖽𝖾𝗋𝗅𝗂𝖺𝗌",
+    "Setup": {
+      "Info": "...",
+      "Theme": " Explorer Aqua, Fiery, Blue, Orange, Pink, Red, Retro, Sunlight, Teen, Summer, Flower, Ghost, Purple, Rainbow, et Hacker."
+    }
+  },
+  "APPSTATEPATH": "anderstate.json",
+  "DEL_FUNCTION": false,
+  "ADD_FUNCTION": true,
+  "CONNECT_LOG": false,
+  "FCAOption": {
+    "forceLogin": false,
+    "listenEvents": true,
+    "autoMarkDelivery": false,
+    "autoMarkRead": false,
+    "logLevel": "error",
+    "selfListen": false,
+    "online": true,
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_2) AppleWebKit/600.3.18 (KHTML, like Gecko) Version/8.0.3 Safari/600.3.18"
+  },
+  "version": "1.6.0",
+  "daily": {
+    "cooldownTime": 43200000,
+    "rewardCoin": 500
+  },
+  "work": {
+    "cooldownTime": 1200000
+  },
+  "help": {
+    "autoUnsend": true,
+    "delayUnsend": 60
+  },
+  "adminUpdate": {
+    "autoUnsend": true,
+    "sendNoti": true,
+    "timeToUnsend": 10
+  },
+  "adminNoti": {
+    "autoUnsend": true,
+    "sendNoti": true,
+    "timeToUnsend": 10
+  },
+  "math": {
+    "WOLFRAM": "T8J8YV-H265UQ762K"
+  },
+  "sing": {
+    "YOUTUBE_API": "AIzaSyCqox-KXEwDncsuo2HIpE0MF8J7ATln5Vc",
+    "SOUNDCLOUD_API": "M4TSyS6eV0AcMynXkA3qQASGcOFQTWub"
+  },
+  "video": {
+    "YOUTUBE_API": "AIzaSyDEE1-zZSRVI8lTaQOVsIAQFgL-_BJKvhk"
+  },
+  "audio": {
+    "YOUTUBE_API": "AIzaSyDEE1-zZSRVI8lTaQOVsIAQFgL-_BJKvhk"
+  },
+  "menu": {
+    "autoUnsend": true,
+    "delayUnsend": 60
+  },
+  "chemeb": {},
+  "coinflip": {},
+  "helpall": {
+    "autoUnsend": true,
+    "delayUnsend": 500
+  },
+  "prefix": {
+    "autoUnsend": true,
+    "delayUnsend": 20
+  },
+  "god": {
+    "enable": true
+  }
+}
